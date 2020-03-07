@@ -1,1 +1,1 @@
-# A-rat
+# A-rat (Remote Administration Tool) 
